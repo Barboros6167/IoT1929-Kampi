@@ -2,3 +2,5 @@ NOT!!: Projede yapım esnasında Nodemcu Lolin Kartımız kullanılamaz hale gel
 
 Kampta Kullandığımız Mail Adreslerimiz: yildiraykaraca@icloud.com
 					barboros6167art@gmail.com
+
+Proje Süresi Geçmiş Olsa Dahil Kart Temin Edilecek ve Burada Güncellenecektir.
